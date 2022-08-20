@@ -12,9 +12,11 @@ data set with different deep learning models like CNN, RNN etc. Among all the mo
 we have achieved 82% accuracy for ANN. This is the highest accuracy for any existing
 approaches or models in the particular data set.
 
-#Normal EEG Signal
+# Workflow
+![](https://github.com/Rifat-Ansari/Extra/blob/9c0f8ed269732ea55f36b459b865fc1b5d857de8/Blank%20Diagram%20(2).jpeg)
+# Normal EEG Signal
 
-#Filtered EEG Signal
+# Filtered EEG Signal
 
 # Dataset Link
 https://www.kaggle.com/datasets/broach/button-tone-sz
