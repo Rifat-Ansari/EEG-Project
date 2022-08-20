@@ -15,8 +15,8 @@ approaches or models in the particular data set.
 # Workflow
 ![](https://github.com/Rifat-Ansari/EEG-Project/blob/191a53d8cedfb88afdd0e882528958bac65cd84a/work_flow.jpeg)
 # Normal EEG Signal
-
+![](https://github.com/Rifat-Ansari/EEG-Project/blob/b226b70a3e3b5cc3221d0d906ed0868116907cbd/sub1_full%20(1).png)
 # Filtered EEG Signal
-
+![](https://github.com/Rifat-Ansari/EEG-Project/blob/b226b70a3e3b5cc3221d0d906ed0868116907cbd/nonSZ.png)
 # Dataset Link
 https://www.kaggle.com/datasets/broach/button-tone-sz
