@@ -13,7 +13,7 @@ we have achieved 82% accuracy for ANN. This is the highest accuracy for any exis
 approaches or models in the particular data set.
 
 # Workflow
-![](https://github.com/Rifat-Ansari/Extra/blob/9c0f8ed269732ea55f36b459b865fc1b5d857de8/Blank%20Diagram%20(2).jpeg)
+![](https://github.com/Rifat-Ansari/EEG-Project/blob/191a53d8cedfb88afdd0e882528958bac65cd84a/work_flow.jpeg)
 # Normal EEG Signal
 
 # Filtered EEG Signal
